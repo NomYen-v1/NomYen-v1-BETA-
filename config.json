@@ -1,8 +1,8 @@
 {
-	"prefix": ">>",
-	"token": "",
-	"ownerid": "",
-	"api_key": "",
+	"prefix": "PREFIX HERE",
+	"token": "TOKEN HERE",
+	"ownerid": "Owner ID HERE",
+	"api_key": "Youtube API HERE",
 	"nodes": [
 		{ "host": "localhost", "port": 55555, "password": "123456" }
 	]
