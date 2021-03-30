@@ -1,0 +1,9 @@
+{
+	"prefix": ">>",
+	"token": "NzgyNjY3MDk5OTczMDkxMzI4.X8PhiQ.b5Xh_wlc5WAMKA6eAeATTWVz1NY",
+	"ownerid": "660397873891901450",
+	"api_key": "AIzaSyBZajKyWVZ1vyWvAFhhlyyf-Md03-nf-cA",
+	"nodes": [
+		{ "host": "localhost", "port": 55555, "password": "123456" }
+	]
+}
